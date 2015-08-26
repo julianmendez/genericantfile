@@ -1,0 +1,1 @@
+{"name":"Genericantfile","tagline":"Generic Ant file to compile projects with Ivy, but reading project details from Maven POM files.","body":"# GenericAntFile\r\n\r\nContains a generic Ant file to compile projects with Ivy, but reading project details from Maven POM files.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}

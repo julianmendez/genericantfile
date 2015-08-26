@@ -1,3 +1,30 @@
 # GenericAntFile
 
-Contains a generic Ant file to compile projects with Ivy, but reading project details from Maven POM files.
+*Generic Ant file to compile modules with Ivy, using details from Maven POM files*
+
+This project contains a generic [Apache Ant](http://ant.apache.org/) file that uses [Apache Ivy](http://ant.apache.org/ivy/) to compile a module. Module's details are read from the module's [Apache Maven](http://maven.apache.org/) POM file.
+
+
+### Author
+
+[Julian Mendez](http://lat.inf.tu-dresden.de/~mendez/)
+
+
+### Source code
+
+To clone the project:
+```
+$ git clone https://github.com/julianmendez/genericantfile.git
+```
+
+
+### License
+
+This software is distributed under the [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt) and the [GNU Lesser General Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.txt).
+
+
+### Contact
+
+In case you need more information, please contact @julianmendez .
+
+

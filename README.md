@@ -2,7 +2,7 @@
 
 *Generic Ant file to compile modules with Ivy, using details from Maven POM files*
 
-This project contains a generic [Apache Ant](http://ant.apache.org/) file that uses [Apache Ivy](http://ant.apache.org/ivy/) to compile a module. Module's details are read from the module's [Apache Maven](http://maven.apache.org/) POM file.
+This project contains a generic [Apache Ant](http://ant.apache.org/) file that uses [Apache Ivy](http://ant.apache.org/ivy/) to compile a module. The module's details are read from its [Apache Maven](http://maven.apache.org/) POM file.
 
 
 ### Author

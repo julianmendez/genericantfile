@@ -34,9 +34,17 @@
           <h1>
 <a id="genericantfile" class="anchor" href="#genericantfile" aria-hidden="true"><span class="octicon octicon-link"></span></a>GenericAntFile</h1>
 
-<p><em>Generic Ant file to compile modules with Ivy, using details from Maven POM files</em></p>
+<p><em>Generic Ant file to compile modules with Ivy</em></p>
 
-<p>This project contains a generic <a href="http://ant.apache.org/">Apache Ant</a> file that uses <a href="http://ant.apache.org/ivy/">Apache Ivy</a> to compile a module. The module's details are read from its <a href="http://maven.apache.org/">Apache Maven</a> POM file.</p>
+<p>This project contains a generic <a href="http://ant.apache.org/">Apache Ant</a> file that uses <a href="http://ant.apache.org/ivy/">Apache Ivy</a> to compile a module. The required properties are:</p>
+
+<ul>
+<li><code>project.groupId</code></li>
+<li><code>project.artifactId</code></li>
+<li><code>project.version</code></li>
+</ul>
+
+<p>which have the same meaning as in an <a href="http://maven.apache.org/">Apache Maven</a> POM file.</p>
 
 <h3>
 <a id="author" class="anchor" href="#author" aria-hidden="true"><span class="octicon octicon-link"></span></a>Author</h3>

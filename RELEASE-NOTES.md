@@ -11,7 +11,7 @@
 
 ### v1.0.1
 *(2015-12-23)*
-* simplfies inner structure of source JAR files
+* simplfies internal structure of source JAR files
 
 
 ### v1.0.0

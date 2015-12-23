@@ -34,6 +34,10 @@ This software is distributed under the [Apache License Version 2.0](http://www.a
 * [FCAlib](https://github.com/julianmendez/fcalib/tree/master/contrib) 
 
 
+## Release notes
+See [release notes](http://github.com/julianmendez/genericantfile/blob/master/RELEASE-NOTES.md).
+
+
 ## Contact
 
 In case you need more information, please contact @julianmendez .

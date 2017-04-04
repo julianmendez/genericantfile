@@ -13,7 +13,7 @@ which have the same meaning as in an [Apache Maven](https://maven.apache.org/) P
 
 ## Author
 
-[Julian Mendez](http://lat.inf.tu-dresden.de/~mendez/)
+[Julian Mendez](https://lat.inf.tu-dresden.de/~mendez/)
 
 
 ## Source code

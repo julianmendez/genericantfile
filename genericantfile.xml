@@ -48,7 +48,7 @@
  *
 -->
 
-	<!-- For more information about this file, see http://ant.apache.org -->
+	<!-- For more information about this file, see https://ant.apache.org -->
 
 	<!-- Project-specific properties. -->
 	<fail unless="project.groupId">Error: 'project.groupId' is undefined. This property is the group identifier.</fail>

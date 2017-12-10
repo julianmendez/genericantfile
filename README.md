@@ -1,5 +1,8 @@
 # GenericAntFile
 
+[![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![license](https://img.shields.io/badge/license-LGPL%203.0-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0.txt)
+
 *Generic Ant file to compile modules with Ivy*
 
 This project contains a generic [Apache Ant](https://ant.apache.org/) file that uses [Apache Ivy](https://ant.apache.org/ivy/) to compile a module. The required properties are:

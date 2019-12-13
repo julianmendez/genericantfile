@@ -37,7 +37,7 @@ This software is distributed under the [Apache License Version 2.0](https://www.
 
 * [jsexp](https://github.com/julianmendez/jsexp/tree/master/jsexp)
 * [CEL Plug-in](https://github.com/julianmendez/cel/tree/master/cel-plugin)
-* [FCAlib](https://github.com/julianmendez/fcalib/tree/master/contrib) 
+* [FCAlib](https://github.com/julianmendez/fcalib/tree/master/contrib)
 
 
 ## Release notes
